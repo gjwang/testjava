@@ -1,0 +1,11 @@
+1, compile:
+   javac Echo
+2, run:
+   java Echo Drink Hot Java
+   output:
+Drink
+Hot
+Java
+
+  or run:
+  java "Echo Drink Hot Java"
